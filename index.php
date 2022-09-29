@@ -14,7 +14,7 @@
 			<li><span></span><a href="#invisalign">Invisalign</a></li>
 			<li><span></span><a href="#beneficios">Benefícios</a></li>
 			<li><span></span><a href="#serve">Serve para mim?</a></li>
-            <li><span></span><a href="#sobre">Serve para mim?</a></li>
+            <li><span></span><a href="#sobre">Sobre</a></li>
 			<li><span></span><a href="#contato">Contato</a></li>
 	</ul>
    <section class="header-master">
@@ -26,7 +26,7 @@
                         <li class="selected" ><span></span><a href="#invisalign">Invisalign</a></li>
                         <li><span></span><a href="#beneficios">Benefícios</a></li>
                         <li><span></span><a href="#serve">Serve para mim?</a></li>
-                        <li><span></span><a href="#sobre">Serve para mim?</a></li>
+                        <li><span></span><a href="#sobre">Sobre</a></li>
                         <li><span></span><a href="#contato">Contato</a></li>
                     </ul>
                 </nav>
@@ -266,7 +266,7 @@
           <div class="clear"></div>
        </div><!---container--->
    </section><!---diferencas--->
-   <section id="Contato" class="contato">
+   <section id="contato" class="contato">
        <div class="container">
            <h2>Entre em Contato</h2>
            <p>Telefone: (48) 3222-6591
