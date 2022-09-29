@@ -52,6 +52,7 @@ nav.mobile{
 }
 
 nav.mobile h3{
+    top:3px;
     cursor: pointer;
     color:white;
     font-size: 28px;
@@ -60,7 +61,7 @@ nav.mobile h3{
 ul.nav-desktop{
 	position: absolute;
 	left: 0;
-	top: 60px;
+	top: 70px;
 	width: 100%;
 	background:#6CC5B2;
 	list-style-type: none;
