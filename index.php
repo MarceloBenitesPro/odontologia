@@ -44,7 +44,7 @@
                 <div id="invisalign" class="one">
                 <h2>Seu sorriso perfeito através
 						de um tratamento discreto
-						e inovador, em Florianópolis.</h2>
+						e inovador, em Sapucaia do Sul.</h2>
 						<p>Alinhe seus dentes com conforto, praticidade e liberdade! <b>Deixe seu email</b> para que a Dra. Leda possa entrar em contato e agendar uma avaliação gratuita.</p>
                        <form >
                            <input type="email" name="email" />
