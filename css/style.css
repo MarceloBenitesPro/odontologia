@@ -45,7 +45,7 @@ nav.mobile{
 
 nav.mobile{
     position: relative;
-    top:7px;
+    top:10px;
     margin-right: 10px;
     float:right;
 
@@ -60,7 +60,7 @@ nav.mobile h3{
 ul.nav-desktop{
 	position: absolute;
 	left: 0;
-	top: 65px;
+	top: 60px;
 	width: 100%;
 	background:#6CC5B2;
 	list-style-type: none;
